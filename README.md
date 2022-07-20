@@ -1,7 +1,7 @@
 # react-custom-datepicker
 
-Building a re-usable date picker scratch using React.
+Building a re-usable date picker component form scratch using React.
 
-[VIEW CODESANDBOX](https://codesandbox.io/s/react-custom-datepicker-b54kvn)
+[VIEW CODESANDBOX](https://codesandbox.io/s/github/siddeshwarnavink/react-custom-datepicker)
 
 ![Demo image](output.gif)
